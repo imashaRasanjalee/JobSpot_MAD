@@ -37,7 +37,7 @@ class UserListAdapter(
 
     override fun onBindViewHolder(holder: UserViewHolder, position: Int) {
        val newList = listUs[position]
-        holder.userName.text = "Name: ${newList.name}"
+        holder.userName.text = "Job Name: ${newList.name}"
         holder.userMob.text = "Mb. : ${newList.mobN}"
         if (newList.imageUr == "null"){
             holder.userImg.setImageResource(R.drawable.ic_perm)
