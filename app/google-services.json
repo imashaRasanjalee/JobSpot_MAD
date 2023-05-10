@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378427775213",
+    "project_id": "jobspot-8edb5",
+    "storage_bucket": "jobspot-8edb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378427775213:android:1fb24c6f369fdd610114e4",
+        "android_client_info": {
+          "package_name": "com.example.jobspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378427775213-9196s08q302q2phtamvkkse782h0u13r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9yX4FbeXYIaOnYYPaSe7gwHW_H_V0Q7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378427775213-9196s08q302q2phtamvkkse782h0u13r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
