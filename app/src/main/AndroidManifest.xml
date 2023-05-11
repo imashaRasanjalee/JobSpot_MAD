@@ -30,27 +30,6 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".jobPost.AddJobActivity"
-            android:exported="true">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".jobPost.FetchingActivity"
-            android:exported="true">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".jobPost.JobUpdateActivity"
-            android:exported="true">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".feedBack.AddFeedBackActivity"
             android:exported="true">
             <meta-data
