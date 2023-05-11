@@ -13,11 +13,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun goFeedBack(view: View) {
-        val intent = Intent(this,FeedBackMain::class.java)
-        startActivity(intent)
-    }
-
     fun addJobView(view: View) {
         val intent = Intent(this, AddJobActivity::class.java)
         startActivity(intent)
